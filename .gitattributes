@@ -1,2 +1,4 @@
+data/ratings.csv filter=lfs diff=lfs merge=lfs -text
+data/credits.csv filter=lfs diff=lfs merge=lfs -text
 data/credits.csv !text !filter !merge !diff
 data/ratings.csv !text !filter !merge !diff
